@@ -1,1 +1,1 @@
-# MariamEltorky-Predicting-News-Category-Using-NLP
+# Predicting-News-Category-Using-NLP
